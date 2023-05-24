@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rgb-hmikedev/static/css/main.7064deb2.css",
+    "main.js": "/rgb-hmikedev/static/js/main.931f23ae.js",
+    "index.html": "/rgb-hmikedev/index.html",
+    "main.7064deb2.css.map": "/rgb-hmikedev/static/css/main.7064deb2.css.map",
+    "main.931f23ae.js.map": "/rgb-hmikedev/static/js/main.931f23ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.931f23ae.js"
+  ]
+}
