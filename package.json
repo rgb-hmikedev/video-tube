@@ -1,6 +1,7 @@
 {
   "name": "video-tube",
   "version": "1.0.0",
+  "homepage":"https://rgb-hmikedev.github.io/video-tube/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
